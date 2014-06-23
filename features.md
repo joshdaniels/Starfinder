@@ -12,6 +12,6 @@ Features
 * the application will pull from NASA's hubble photograph database to clearly show celestial bodies that users are unable to see using the native zoom functions of the mobile device.{http://archives.esac.esa.int/hst/}
 * constellation database will be mined from{http://simbad.u-strasbg.fr/simbad/} (they have all listed cellestial objects in the known universe.)
 * graphical overlay will be vector constructed so the application can be used in educational settings requiring larger veiwing experiences
-*GUI will also include a compass that communicates with the device's native gyroscope.
+* GUI will also include a compass that communicates with the device's native gyroscope.
 * 2 display options, one for night viewing and the other for day time veiwing for activities such as finding the north star(Polaris)ect...
 * the app will be made available for sale  in the Apple App Store for $4.99 starting June 29, 2014.
